@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\Test007\Test007\bin\Debug\netstandard2.0\Test007.deps.json
+C:\Users\gabri\source\repos\Test007\Test007\bin\Debug\netstandard2.0\Test007.dll
+C:\Users\gabri\source\repos\Test007\Test007\bin\Debug\netstandard2.0\ref\Test007.dll
+C:\Users\gabri\source\repos\Test007\Test007\bin\Debug\netstandard2.0\Test007.pdb
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.AssemblyInfo.cs
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.dll
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\ref\Test007.dll
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.pdb
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Views\MessageView.xaml.g.cs
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\Test007.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\Test007\Test007\obj\Debug\netstandard2.0\XamlC.stamp
